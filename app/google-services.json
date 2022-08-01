@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472797341920",
+    "project_id": "vlibrary-fb219",
+    "storage_bucket": "vlibrary-fb219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472797341920:android:2afe942701bdf4d0540885",
+        "android_client_info": {
+          "package_name": "com.example.vlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472797341920-l5f96jdg0pr5s3vkuk2a7n2f0f1n3e10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhOKaCSLayLQp-1pAs6DrbPUnQ1gohzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472797341920-l5f96jdg0pr5s3vkuk2a7n2f0f1n3e10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
